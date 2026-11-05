@@ -23,7 +23,7 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/GoodWoolf-AI/GoodWoolf">Main Repository</a>
   &nbsp;·&nbsp;
-  <a href="https://huggingface.co/GoodWoolf/Training-Ledger">Training-Ledger</a>
+  <a href="https://huggingface.co/datasets/GoodWoolf/Training-Ledger">Training-Ledger</a>
 </p>
 
 <br />
