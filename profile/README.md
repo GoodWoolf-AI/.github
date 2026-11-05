@@ -54,7 +54,7 @@ Build models on commodity hardware at your own pace, share and iterate models wi
 
 <td width="50%" valign="top">
 
-### 🧠 [Training Ledger](https://huggingface.co/GoodWoolf/Training-Ledger)
+### 🧠 [Training Ledger](https://huggingface.co/datasets/GoodWoolf/Training-Ledger)
 
 A public, community-maintained ledger of collaborative model training.
 
@@ -105,7 +105,7 @@ Whether you're improving the core platform, building integrations, contributing 
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/GoodWoolf-AI/GoodWoolf">Start contributing →</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://huggingface.co/GoodWoolf/Training-Ledger">Train and share models →</a>
+  <a href="https://huggingface.co/datasets/GoodWoolf/Training-Ledger">Train and share models →</a>
 </p>
 
 <br />
