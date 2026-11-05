@@ -32,7 +32,7 @@
 
 GoodWoolf is an open-source platform for building foundation models collaboratively on commodity hardware.
 
-It combines local model training, federated learning, virtual memory, and a public training ledger to make large-scale AI development more accessible.
+It combines local model training, virtual memory, and a public training ledger to make large-scale AI development more accessible.
 
 The GoodWoolf ecosystem brings together the core platform, the Training Ledger, and documentation to provide a complete collaborative training environment.
 
@@ -46,7 +46,7 @@ The GoodWoolf ecosystem brings together the core platform, the Training Ledger, 
 
 ### 🧠 [GoodWoolf](https://github.com/GoodWoolf-AI/GoodWoolf)
 
-An open-source platform for collaborative and federated AI model training.
+An open-source platform for collaborative training of AI models.
 
 Build models on commodity hardware at your own pace, share and iterate models with the community.
 
