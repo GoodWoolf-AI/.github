@@ -28,7 +28,7 @@
 
 <br />
 
-## Building foundation models collaboratively on commodity hardware
+## Building Foundation Models Collaboratively on Commodity Hardware
 
 GoodWoolf is an open-source platform for building foundation models collaboratively on commodity hardware.
 
