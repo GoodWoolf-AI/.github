@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://goodwoolf.ai">
-    <img src="goodwoolf.svg" width="140" alt="GoodWoolf" />
+    <img src="goodwoolf.svg" width="200" alt="GoodWoolf" />
   </a>
 </p>
 
@@ -79,6 +79,9 @@ Documentation, guides, changelog, and the GoodWoolf usage examples.
 <br />
 
 ## Why GoodWoolf?
+
+**Open collaboration.**  
+Make model training a collective effort rather than something limited to individual organizations.
 
 **Own your infrastructure.**
 Run locally or on your own servers, even with limited resources, at your own pace.
