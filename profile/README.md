@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  Foundation Models · Commodity Hardware · Virtual Memory · Collaborative Training
+  Foundation Models · Commodity Hardware · Collaborative Training
 </p>
 
 <p align="center">
