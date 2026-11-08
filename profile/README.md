@@ -101,7 +101,7 @@ GoodWoolf is developed publicly and designed around extensibility rather than ve
 
 GoodWoolf is built by an open-source community.
 
-Whether you're improving the core platform, building integrations, contributing infrastructure, fixing bugs, writing documentation, or creating new tools, contributions are welcome.
+Whether you're trainig and sharing models, improving the platform, fixing bugs or writing documentation, your contributions are welcome.
 
 <p align="center">
   <a href="https://docs.goodwoolf.ai">Explore the docs →</a>
